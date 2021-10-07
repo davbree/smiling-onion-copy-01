@@ -15,7 +15,7 @@ sections:
     variant: variant-b
     badge:
       elementId: ''
-      label: lorem-ipsum
+      label: lorefdfdm-ipsum
     title: Let's do this!!!!!!!!!???dsdssd!!!//////!!!
     text: >-
       T!!!!he Stackbit theme is flexible and scalable to every need. It can manage
