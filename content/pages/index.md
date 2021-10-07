@@ -18,7 +18,7 @@ sections:
       label: lorefdfdm-ipsum
     title: Let's do thidass!!!!!!!!!???dsdssd!!!//////!!!
     text: >-
-      T!!!!he Stackbit theme is flexible dand scalable to every need. It can manage
+      T!!!!he Stackbit theme is flexddible dand scalable to every need. It can manage
       any layout and any screen.
     actions:
       - type: Button
