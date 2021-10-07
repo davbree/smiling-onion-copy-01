@@ -22,7 +22,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it nowdasdasdas
+        label: Try it nowdasdasdasdasdas
         url: /about
         style: primary
     backgroundImage:
