@@ -16,13 +16,13 @@ sections:
     badge:
       elementId: ''
       label: lorefdfdm-ipsum
-    title: Let's do this!!!!!!!!!???dsdssd!!!//////!!!
+    title: Let's do thidass!!!!!!!!!???dsdssd!!!//////!!!
     text: >-
       T!!!!he Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it nowdasdasdasdasdas
+        label: Try it nowdasdasdasdasdasdsdsad
         url: /about
         style: primary
     backgroundImage:
