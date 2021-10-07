@@ -16,7 +16,7 @@ sections:
     badge:
       elementId: ''
       label: lorem-ipsum
-    title: Let's do this!!!!!!!!!???dsdssd!!!//////
+    title: Let's do this!!!!!!!!!???dsdssd!!!//////!!!
     text: >-
       T!!!!he Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
